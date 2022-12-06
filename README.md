@@ -43,19 +43,19 @@ NeRF++: Analyzing and Improving Neural Radiance Fields, Zhang et al., (Oct 15 20
 
 FastNeRF: High-Fidelity Neural Rendering at 200FPS, Garbin et al. (18 Mar 2021) | [pdf](https://arxiv.org/abs/2103.10380) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/garbin2021fastnerf)
 
-[PlenOctrees For Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/), Yu et al, (Mar 25, 2021) | [pdf](https://arxiv.org/abs/2103.14024) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/yu2021plenoctrees) | [github](https://github.com/sxyu/plenoctree)
+[PlenOctrees For Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/), Yu et al, (Mar 25 2021) | [pdf](https://arxiv.org/abs/2103.14024) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/yu2021plenoctrees) | [github](https://github.com/sxyu/plenoctree)
 
-[Baking Neural Radiance Fields for Real-Time View Synthesis](https://phog.github.io/snerg/), Hedman et al., (Mar 26, 2021) | [pdf](https://arxiv.org/abs/2103.14645) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/hedman2021baking) | [github](https://github.com/google-research/google-research/tree/master/snerg)
+[Baking Neural Radiance Fields for Real-Time View Synthesis](https://phog.github.io/snerg/), Hedman et al., (Mar 26 2021) | [pdf](https://arxiv.org/abs/2103.14645) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/hedman2021baking) | [github](https://github.com/google-research/google-research/tree/master/snerg)
 
-KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser et al., (Aug 2, 2021) | [pdf](https://arxiv.org/abs/2103.13744) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/reiser2021kilonerf) | [github](https://github.com/creiser/kilonerf)
+KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser et al., (Aug 2 2021) | [pdf](https://arxiv.org/abs/2103.13744) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/reiser2021kilonerf) | [github](https://github.com/creiser/kilonerf)
 
 #### -Non-baked (Faster Inference and Typically Faster Training):
 
-[Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/), Liu et al., (Jul 22, 2020) | [pdf](https://arxiv.org/abs/2007.11571) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/liu2020neural) | [github](https://github.com/facebookresearch/NSVF)
+[Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/), Liu et al., (Jul 22 2020) | [pdf](https://arxiv.org/abs/2007.11571) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/liu2020neural) | [github](https://github.com/facebookresearch/NSVF)
 
-[AutoInt: Automatic integration for fast neural volume rendering](https://davidlindell.com/publications/autoint), Lindell et al., (Dec 3, 2020) | [pdf](https://arxiv.org/abs/2012.01714) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/lindell2021autoint) | [github](https://github.com/computational-imaging/automatic-integration)
+[AutoInt: Automatic integration for fast neural volume rendering](https://davidlindell.com/publications/autoint), Lindell et al., (Dec 3 2020) | [pdf](https://arxiv.org/abs/2012.01714) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/lindell2021autoint) | [github](https://github.com/computational-imaging/automatic-integration)
 
-[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Muller et al., (Jan 16, 2022) | [pdf](https://arxiv.org/abs/2201.05989) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/muller2022instant) | [github](https://github.com/NVlabs/instant-ngp)
+[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Muller et al., (Jan 16 2022) | [pdf](https://arxiv.org/abs/2201.05989) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/muller2022instant) | [github](https://github.com/NVlabs/instant-ngp)
 
 
 ### Few-shot/Sparse View (Typically Result in Faster Training):
@@ -75,7 +75,7 @@ KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser
 ### Urban
 [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/), Martin-Brualla et al., (Aug 5 2020) | [pdf](https://arxiv.org/abs/2008.02268) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/martin2021nerf) | [github-non official](https://github.com/kwea123/nerf_pl)
 
-[Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/), Chen et al., (Nov 30, 2021) | [pdf](https://arxiv.org/abs/2111.15246) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/chen2022hallucinated) | [github](https://github.com/rover-xingyu/Ha-NeRF)
+[Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/), Chen et al., (Nov 30 2021) | [pdf](https://arxiv.org/abs/2111.15246) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/chen2022hallucinated) | [github](https://github.com/rover-xingyu/Ha-NeRF)
 
 ### Human Body/Face
 
