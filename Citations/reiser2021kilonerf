@@ -1,0 +1,7 @@
+@inproceedings{reiser2021kilonerf,
+  title={Kilonerf: Speeding up neural radiance fields with thousands of tiny mlps},
+  author={Reiser, Christian and Peng, Songyou and Liao, Yiyi and Geiger, Andreas},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={14335--14345},
+  year={2021}
+}
