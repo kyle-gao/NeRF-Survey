@@ -1,0 +1,7 @@
+@inproceedings{hedman2021baking,
+  title={Baking neural radiance fields for real-time view synthesis},
+  author={Hedman, Peter and Srinivasan, Pratul P and Mildenhall, Ben and Barron, Jonathan T and Debevec, Paul},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5875--5884},
+  year={2021}
+}
