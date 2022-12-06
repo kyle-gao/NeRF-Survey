@@ -40,9 +40,12 @@ NeRF++: Analyzing and Improving Neural Radiance Fields, Zhang et al., (Oct 15 20
 ### Speed:
 
 #### Baked (Faster Inference):
+
+FastNeRF: High-Fidelity Neural Rendering at 200FPS, Garbin et al. (18 Mar 2021) | [pdf](https://arxiv.org/abs/2103.10380) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/garbin2021fastnerf)
+
+[PlenOctrees For Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/), Yu et al, (Mar 25, 2021) | [pdf](https://arxiv.org/abs/2103.14024) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/yu2021plenoctrees) | [github](https://github.com/sxyu/plenoctree)
+
 [Baking Neural Radiance Fields for Real-Time View Synthesis](https://phog.github.io/snerg/), Hedman et al., (Mar 26, 2021) | [pdf](https://arxiv.org/abs/2103.14645) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/hedman2021baking) | [github](https://github.com/google-research/google-research/tree/master/snerg)
-
-
 
 
 #### Non-baked (Faster Training and Inference):
