@@ -1,0 +1,7 @@
+inproceedings{lindell2021autoint,
+  title={Autoint: Automatic integration for fast neural volume rendering},
+  author={Lindell, David B and Martel, Julien NP and Wetzstein, Gordon},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14556--14565},
+  year={2021}
+}
