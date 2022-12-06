@@ -34,16 +34,16 @@ NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review, Gao et al, (Oc
 ### Unbound Scene:
 NeRF++: Analyzing and Improving Neural Radiance Fields, Zhang et al., (Oct 15 2020) | [pdf](https://arxiv.org/abs/2010.07492) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/zhang2020nerf) | [github](https://github.com/Kai-46/nerfplusplus) |
 
-[NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/), Martin-Brualla et al., (Aug 5 2020) | [pdf](https://arxiv.org/abs/2008.02268) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/martin2021nerf) | [github-non official](https://github.com/kwea123/nerf_pl)
-
-
 [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/), Barron et al., (Nov 23 2021) | [pdf](https://arxiv.org/abs/2111.12077) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/barron2022mip) | [github](https://github.com/google-research/multinerf)
-
 
 
 ### Speed:
 
-#### Baked (Faster Inference Only):
+#### Baked (Faster Inference):
+[Baking Neural Radiance Fields for Real-Time View Synthesis](https://phog.github.io/snerg/), Hedman et al., (Mar 26, 2021) | [pdf](https://arxiv.org/abs/2103.14645) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/hedman2021baking) | [github](https://github.com/google-research/google-research/tree/master/snerg)
+
+
+
 
 #### Non-baked (Faster Training and Inference):
 
@@ -53,11 +53,18 @@ NeRF++: Analyzing and Improving Neural Radiance Fields, Zhang et al., (Oct 15 20
 
 ### Pose Estimation
 
-###
+###Scene Composition
+####Labelling
+####Editing
 
-### Applications
-#### Urban
-#### Human Body/Face
-#### Surface Reconstruction
-#### Scene Editing/Labelling
+
+### Urban
+[NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/), Martin-Brualla et al., (Aug 5 2020) | [pdf](https://arxiv.org/abs/2008.02268) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/martin2021nerf) | [github-non official](https://github.com/kwea123/nerf_pl)
+
+### Human Body/Face
+
+### Surface/Voxel Reconstruction
+### Scene Editing/Labelling
+
+###Denoising/Deblurring/Super-resolution
 
