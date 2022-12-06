@@ -3,7 +3,7 @@
 
 The papers are organized in terms of category, then in terms of the date of ArXiv/preprint first draft. The official publication dates can be found in the bibtex files. 
 
-If you find this survey/list useful in writing your manuscript(s), please consider citing our paper: 
+If you find this survey/list useful in writing your manuscript(s), please consider citing our paper. 
 
 @article{gao2022nerf,<br>
   title={Nerf: Neural radiance field in 3d vision, a comprehensive review},<br>
