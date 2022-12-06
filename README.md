@@ -24,3 +24,26 @@ NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review, Gao et al, (Oc
 ## Journal/Conference papers:
 
 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., (May 19 2020) | [pdf](https://arxiv.org/abs/2003.08934) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/mildenhall2021nerf) | [github](https://github.com/bmild/nerf)
+
+### Fundamentals:
+
+### Speed:
+
+#### Baked (Faster Inference Only):
+
+#### Non-baked (Faster Training and Inference):
+
+### Few-shot/Sparse View:
+
+### Latent/Conditional 
+
+### Pose Estimation
+
+###
+
+### Applications
+#### Urban
+#### Human Body/Face
+#### Surface Reconstruction
+#### Scene Editing/Labelling
+
