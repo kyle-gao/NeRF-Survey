@@ -3,12 +3,12 @@ Collection of Neural Radiance Field  (NeRF) papers.
 
 If you use this list in your manuscript, please consider citing our paper: 
 
-@article{gao2022nerf,//
-  title={Nerf: Neural radiance field in 3d vision, a comprehensive review},//
-  author={Gao, Kyle and Gao, Yina and He, Hongjie and Lu, Denning and Xu, Linlin and Li, Jonathan},//
-  journal={arXiv preprint arXiv:2210.00379},//
-  year={2022}//
-}//
+@article{gao2022nerf,<br>
+  title={Nerf: Neural radiance field in 3d vision, a comprehensive review},<br>
+  author={Gao, Kyle and Gao, Yina and He, Hongjie and Lu, Denning and Xu, Linlin and Li, Jonathan},<br>
+  journal={arXiv preprint arXiv:2210.00379},<br>
+  year={2022}<br>
+}<br>
 
 
 ## Survey papers:
