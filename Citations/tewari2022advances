@@ -1,0 +1,10 @@
+@inproceedings{tewari2022advances,
+  title={Advances in neural rendering},
+  author={Tewari, Ayush and Thies, Justus and Mildenhall, Ben and Srinivasan, Pratul and Tretschk, Edgar and Yifan, W and Lassner, Christoph and Sitzmann, Vincent and Martin-Brualla, Ricardo and Lombardi, Stephen and others},
+  booktitle={Computer Graphics Forum},
+  volume={41},
+  number={2},
+  pages={703--735},
+  year={2022},
+  organization={Wiley Online Library}
+}
