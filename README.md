@@ -39,7 +39,7 @@ NeRF++: Analyzing and Improving Neural Radiance Fields, Zhang et al., (Oct 15 20
 
 ### Speed:
 
-#### Baked (Faster Inference):
+#### -Baked (Faster Inference):
 
 FastNeRF: High-Fidelity Neural Rendering at 200FPS, Garbin et al. (18 Mar 2021) | [pdf](https://arxiv.org/abs/2103.10380) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/garbin2021fastnerf)
 
@@ -49,7 +49,7 @@ FastNeRF: High-Fidelity Neural Rendering at 200FPS, Garbin et al. (18 Mar 2021) 
 
 KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser et al., (Aug 2, 2021) | [pdf](https://arxiv.org/abs/2103.13744) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/reiser2021kilonerf) | [github](https://github.com/creiser/kilonerf)
 
-#### Non-baked (Faster Inference and Typically Faster Training):
+#### -Non-baked (Faster Inference and Typically Faster Training):
 
 [Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/), Liu et al., (Jul 22, 2020) | [pdf](https://arxiv.org/abs/2007.11571) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/liu2020neural) | [github](https://github.com/facebookresearch/NSVF)
 
