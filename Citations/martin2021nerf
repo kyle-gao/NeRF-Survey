@@ -1,0 +1,7 @@
+@inproceedings{martin2021nerf,
+  title={Nerf in the wild: Neural radiance fields for unconstrained photo collections},
+  author={Martin-Brualla, Ricardo and Radwan, Noha and Sajjadi, Mehdi SM and Barron, Jonathan T and Dosovitskiy, Alexey and Duckworth, Daniel},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7210--7219},
+  year={2021}
+}
