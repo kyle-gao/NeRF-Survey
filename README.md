@@ -1,5 +1,7 @@
-# NeRF-Survey
-Collection of Neural Radiance Field  (NeRF) papers. The papers are organized in terms of category, then in terms of arxiv first draft date. The official publication dates can be found in the bibtex file. 
+# NeRF-Survey: Collection of Neural Radiance Field (NeRF) papers
+
+
+The papers are organized in terms of category, then in terms of arxiv first draft date. The official publication dates can be found in the bibtex file. 
 
 If you find this survey/list useful in writing your manuscript(s), please consider citing our paper: 
 
