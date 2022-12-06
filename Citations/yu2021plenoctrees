@@ -1,0 +1,7 @@
+@inproceedings{yu2021plenoctrees,
+  title={Plenoctrees for real-time rendering of neural radiance fields},
+  author={Yu, Alex and Li, Ruilong and Tancik, Matthew and Li, Hao and Ng, Ren and Kanazawa, Angjoo},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5752--5761},
+  year={2021}
+}
