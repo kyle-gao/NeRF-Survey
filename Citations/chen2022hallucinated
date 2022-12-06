@@ -1,0 +1,7 @@
+@inproceedings{chen2022hallucinated,
+  title={Hallucinated neural radiance fields in the wild},
+  author={Chen, Xingyu and Zhang, Qi and Li, Xiaoyu and Chen, Yue and Feng, Ying and Wang, Xuan and Wang, Jue},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12943--12952},
+  year={2022}
+}
