@@ -80,5 +80,5 @@ KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser
 ### Surface/Voxel Reconstruction
 ### Scene Editing/Labelling
 
-###Denoising/Deblurring/Super-resolution
+### Denoising/Deblurring/Super-resolution
 
