@@ -47,13 +47,16 @@ FastNeRF: High-Fidelity Neural Rendering at 200FPS, Garbin et al. (18 Mar 2021) 
 
 [Baking Neural Radiance Fields for Real-Time View Synthesis](https://phog.github.io/snerg/), Hedman et al., (Mar 26, 2021) | [pdf](https://arxiv.org/abs/2103.14645) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/hedman2021baking) | [github](https://github.com/google-research/google-research/tree/master/snerg)
 
-KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser et al., (Aug 2, 2021) | [pdf](https://arxiv.org/abs/2103.13744) | [bibtex] (https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/reiser2021kilonerf) | [github] (https://github.com/creiser/kilonerf)
+KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser et al., (Aug 2, 2021) | [pdf](https://arxiv.org/abs/2103.13744) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/reiser2021kilonerf) | [github](https://github.com/creiser/kilonerf)
 
 #### Non-baked (Faster Training and Inference):
 
 [Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/), Liu et al., (Jul 22, 2020) | [pdf](https://arxiv.org/abs/2007.11571) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/liu2020neural) | [github](https://github.com/facebookresearch/NSVF)
 
-### Few-shot/Sparse View:
+[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Muller et al., (Jan 16, 2022) | [pdf](https://arxiv.org/abs/2201.05989) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/muller2022instant) | [github](https://github.com/NVlabs/instant-ngp)
+
+
+### Few-shot/Sparse View (Typically Result in Faster Training):
 
 ### Latent/Conditional 
 
