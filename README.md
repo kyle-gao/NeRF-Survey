@@ -29,7 +29,11 @@ NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review, Gao et al, (Oc
 
 [Mip-nerf: A multiscale representation for anti-aliasing neural radiance fields](https://jonbarron.info/mipnerf/), Barron et al., (May 24 2021) | [pdf](https://arxiv.org/abs/2103.13415) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/barron2021mip) | [github](https://github.com/google/mipnerf)
 
-[Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://dorverbin.github.io/refnerf/), Verbin et al., (Dwec 7 2021) | [pdf](https://arxiv.org/abs/2112.03907) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/verbin2022ref) | [github](https://github.com/google-research/multinerf)
+[Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://dorverbin.github.io/refnerf/), Verbin et al., (Dec 7 2021) | [pdf](https://arxiv.org/abs/2112.03907) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/verbin2022ref) | [github](https://github.com/google-research/multinerf)
+
+### Unbound Scene:
+
+[Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://jonbarron.info/mipnerf360/), Barron et al., (Nov 23 2021) | [pdf](https://arxiv.org/abs/2111.12077) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/barron2022mip) | [github](https://github.com/google-research/multinerf)
 
 
 
