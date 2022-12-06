@@ -15,17 +15,19 @@ If you find this survey/list useful in writing your manuscript(s), please consid
 
 ## Survey papers:
 
-Neural Volume Rendering: NeRF And Beyond, Dellaert and Yen-Chen, (Dec 17 2020). | [pdf](https://arxiv.org/abs/2101.05204) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/dellaert2020neural) | [github](https://github.com/yenchenlin/awesome-NeRF)
+Neural Volume Rendering: NeRF And Beyond, Dellaert and Yen-Chen, (Dec 17 2020) | [pdf](https://arxiv.org/abs/2101.05204) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/dellaert2020neural) | [github](https://github.com/yenchenlin/awesome-NeRF)
 
-Advances in Neural Rendering, Tewari et al. (Nov 10 2021). |[pdf](https://arxiv.org/abs/2111.05849)| [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/tewari2022advances)
+Advances in Neural Rendering, Tewari et al. (Nov 10 2021) |[pdf](https://arxiv.org/abs/2111.05849)| [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/tewari2022advances)
 
-NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review, Gao et al, (Oct 1 2022). | [pdf](https://arxiv.org/abs/2210.00379) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/gao2022nerf)
+NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review, Gao et al, (Oct 1 2022) | [pdf](https://arxiv.org/abs/2210.00379) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/gao2022nerf)
 
 ## Journal/Conference papers:
 
 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., (May 19 2020) | [pdf](https://arxiv.org/abs/2003.08934) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/mildenhall2021nerf) | [github](https://github.com/bmild/nerf)
 
 ### Fundamentals:
+
+[Mip-nerf: A multiscale representation for anti-aliasing neural radiance fields](https://jonbarron.info/mipnerf/), Barron et al., (May 24 2021) | [pdf](https://arxiv.org/abs/2103.13415) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/barron2021mip) | [github]([https://github.com/bmild/nerf](https://github.com/google/mipnerf))
 
 ### Speed:
 
