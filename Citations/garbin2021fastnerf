@@ -1,0 +1,7 @@
+@inproceedings{garbin2021fastnerf,
+  title={Fastnerf: High-fidelity neural rendering at 200fps},
+  author={Garbin, Stephan J and Kowalski, Marek and Johnson, Matthew and Shotton, Jamie and Valentin, Julien},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={14346--14355},
+  year={2021}
+}
