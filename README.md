@@ -65,8 +65,11 @@ KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser
 ### Pose Estimation
 
 ###Scene Composition
-####Labelling
-####Editing
+
+####-Labelling
+
+####-Editing
+
 
 
 ### Urban
