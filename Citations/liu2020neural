@@ -1,0 +1,8 @@
+@article{liu2020neural,
+  title={Neural sparse voxel fields},
+  author={Liu, Lingjie and Gu, Jiatao and Zaw Lin, Kyaw and Chua, Tat-Seng and Theobalt, Christian},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={15651--15663},
+  year={2020}
+}
