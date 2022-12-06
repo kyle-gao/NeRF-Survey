@@ -1,0 +1,7 @@
+@inproceedings{barron2021mip,
+  title={Mip-nerf: A multiscale representation for anti-aliasing neural radiance fields},
+  author={Barron, Jonathan T and Mildenhall, Ben and Tancik, Matthew and Hedman, Peter and Martin-Brualla, Ricardo and Srinivasan, Pratul P},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5855--5864},
+  year={2021}
+}
