@@ -1,5 +1,5 @@
 # NeRF-Survey
-Collection of Neural Radiance Field  (NeRF) papers.
+Collection of Neural Radiance Field  (NeRF) papers. The papers are organized in terms of category, then in terms of arxiv first draft date. The official publication dates can be found in the bibtex file. 
 
 If you find this survey/list useful in writing your manuscript(s), please consider citing our paper: 
 
@@ -12,10 +12,13 @@ If you find this survey/list useful in writing your manuscript(s), please consid
 
 
 ## Survey papers:
-NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review, Gao et al, (Oct 1 2022). | [pdf](https://arxiv.org/abs/2210.00379) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/gao2022nerf)
 
 Neural Volume Rendering: NeRF And Beyond, Dellaert and Yen-Chen, (Dec 17 2020). | [pdf](https://arxiv.org/abs/2101.05204) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/dellaert2020neural) | [github](https://github.com/yenchenlin/awesome-NeRF)
 
-Advances in Neural Rendering, Tewari et al. (Nov 10 2021). |[pdf](https://arxiv.org/abs/2111.05849) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/tewari2022advances)
+Advances in Neural Rendering, Tewari et al. (Nov 10 2021). |[pdf](https://arxiv.org/abs/2111.05849)| [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/tewari2022advances)
+
+NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review, Gao et al, (Oct 1 2022). | [pdf](https://arxiv.org/abs/2210.00379) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/gao2022nerf)
 
 ## Journal/Conference papers:
+
+[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., (May 19 2020) | [pdf](https://arxiv.org/abs/2003.08934) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/mildenhall2021nerf) | [github](https://github.com/bmild/nerf)
