@@ -1,8 +1,0 @@
-@inproceedings{verbin2022ref,
-  title={Ref-nerf: Structured view-dependent appearance for neural radiance fields},
-  author={Verbin, Dor and Hedman, Peter and Mildenhall, Ben and Zickler, Todd and Barron, Jonathan T and Srinivasan, Pratul P},
-  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages={5481--5490},
-  year={2022},
-  organization={IEEE}
-}
