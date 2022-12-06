@@ -75,6 +75,8 @@ KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser
 ### Urban
 [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/), Martin-Brualla et al., (Aug 5 2020) | [pdf](https://arxiv.org/abs/2008.02268) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/martin2021nerf) | [github-non official](https://github.com/kwea123/nerf_pl)
 
+(Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild)[https://rover-xingyu.github.io/Ha-NeRF/], Chen et al., (Nov 30, 2021) | [pdf](https://arxiv.org/abs/2111.15246) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/chen2022hallucinated) | [github](https://github.com/rover-xingyu/Ha-NeRF)
+
 ### Human Body/Face
 
 ### Surface/Voxel Reconstruction
