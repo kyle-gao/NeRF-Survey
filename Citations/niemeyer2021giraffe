@@ -1,0 +1,7 @@
+@inproceedings{niemeyer2021giraffe,
+  title={Giraffe: Representing scenes as compositional generative neural feature fields},
+  author={Niemeyer, Michael and Geiger, Andreas},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11453--11464},
+  year={2021}
+}
