@@ -1,0 +1,7 @@
+@inproceedings{jain2021putting,
+  title={Putting nerf on a diet: Semantically consistent few-shot view synthesis},
+  author={Jain, Ajay and Tancik, Matthew and Abbeel, Pieter},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5885--5894},
+  year={2021}
+}
