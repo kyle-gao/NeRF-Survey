@@ -1,0 +1,7 @@
+inproceedings{yu2021pixelnerf,
+  title={pixelnerf: Neural radiance fields from one or few images},
+  author={Yu, Alex and Ye, Vickie and Tancik, Matthew and Kanazawa, Angjoo},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4578--4587},
+  year={2021}
+}
