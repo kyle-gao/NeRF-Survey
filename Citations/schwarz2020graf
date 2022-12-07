@@ -1,0 +1,8 @@
+@article{schwarz2020graf,
+  title={Graf: Generative radiance fields for 3d-aware image synthesis},
+  author={Schwarz, Katja and Liao, Yiyi and Niemeyer, Michael and Geiger, Andreas},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={20154--20166},
+  year={2020}
+}
