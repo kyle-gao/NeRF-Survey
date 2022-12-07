@@ -63,11 +63,11 @@ KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser
 
 [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/), Chen et al., (Mar 29 2021) | [pdf](https://arxiv.org/abs/2103.15595) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/chen2021mvsnerf) | [github](https://github.com/apchenstu/mvsnerf)
 
-[Neural Rays for Occlusion-aware Image-based Rendering](https://liuyuan-pal.github.io/NeuRay/), Liu et al., (Jul 28 2021) | [pdf](https://arxiv.org/abs/2107.13421) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/liu2022neural) | [github](https://github.com/liuyuan-pal/NeuRay)
-
 Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis, Jain et al., (April 1 2021) | [pdf](https://arxiv.org/abs/2104.00677) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/jain2021putting) | [github](https://github.com/ajayjain/DietNeRF)
 
+[Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://www.cs.cmu.edu/~dsnerf/), Deng et al., (Jul 6 2021) | [pdf](https://arxiv.org/abs/2107.02791) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/deng2022depth) | [github](https://github.com/dunbar12138/DSNeRF)
 
+[Neural Rays for Occlusion-aware Image-based Rendering](https://liuyuan-pal.github.io/NeuRay/), Liu et al., (Jul 28 2021) | [pdf](https://arxiv.org/abs/2107.13421) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/liu2022neural) | [github](https://github.com/liuyuan-pal/NeuRay)
 
 
 
@@ -90,7 +90,10 @@ Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis, Jain et
 
 ### Human Body/Face
 
-### Surface/Voxel Reconstruction
+### Surface/Voxel/Depth Reconstruction
+
+NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo, Wei et al., (Sep 2 2021) | [pdf](https://arxiv.org/abs/2109.01129) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/wei2021nerfingmvs) | [github](https://github.com/weiyithu/NerfingMVS)
+
 ### Scene Editing/Labelling
 
 ### Denoising/Deblurring/Super-resolution
