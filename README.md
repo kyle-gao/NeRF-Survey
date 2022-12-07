@@ -58,7 +58,11 @@ KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser
 [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Muller et al., (Jan 16 2022) | [pdf](https://arxiv.org/abs/2201.05989) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/muller2022instant) | [github](https://github.com/NVlabs/instant-ngp)
 
 
-### Few-shot/Sparse View (Typically Result in Faster Training):
+### Few-shot/Sparse View (Typically Faster Training):
+[PixelNeRF Neural Radiance Fields from One or Few Images](https://alexyu.net/pixelnerf/), Yu et al., (Dec 3 2020) | [pdf](https://arxiv.org/abs/2012.02190) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/yu2021pixelnerf) | [github](https://github.com/sxyu/pixel-nerf)
+
+[MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/) Chen et al., (Mar 29 2021) | [pdf](https://arxiv.org/abs/2103.15595) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/chen2021mvsnerf) | [github](https://github.com/apchenstu/mvsnerf)
+
 
 ### Latent/Conditional 
 
