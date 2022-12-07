@@ -1,0 +1,7 @@
+@inproceedings{cai2022pix2nerf,
+  title={Pix2NeRF: Unsupervised Conditional p-GAN for Single Image to Neural Radiance Fields Translation},
+  author={Cai, Shengqu and Obukhov, Anton and Dai, Dengxin and Van Gool, Luc},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3981--3990},
+  year={2022}
+}
