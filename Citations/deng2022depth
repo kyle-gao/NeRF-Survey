@@ -1,0 +1,7 @@
+@inproceedings{deng2022depth,
+  title={Depth-supervised nerf: Fewer views and faster training for free},
+  author={Deng, Kangle and Liu, Andrew and Zhu, Jun-Yan and Ramanan, Deva},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12882--12891},
+  year={2022}
+}
