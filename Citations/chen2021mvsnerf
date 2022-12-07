@@ -1,0 +1,7 @@
+@inproceedings{chen2021mvsnerf,
+  title={Mvsnerf: Fast generalizable radiance field reconstruction from multi-view stereo},
+  author={Chen, Anpei and Xu, Zexiang and Zhao, Fuqiang and Zhang, Xiaoshuai and Xiang, Fanbo and Yu, Jingyi and Su, Hao},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={14124--14133},
+  year={2021}
+}
