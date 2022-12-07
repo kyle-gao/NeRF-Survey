@@ -1,0 +1,7 @@
+@inproceedings{meng2021gnerf,
+  title={Gnerf: Gan-based neural radiance field without posed camera},
+  author={Meng, Quan and Chen, Anpei and Luo, Haimin and Wu, Minye and Su, Hao and Xu, Lan and He, Xuming and Yu, Jingyi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={6351--6361},
+  year={2021}
+}
