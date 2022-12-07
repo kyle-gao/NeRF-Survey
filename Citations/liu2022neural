@@ -1,0 +1,7 @@
+@inproceedings{liu2022neural,
+  title={Neural rays for occlusion-aware image-based rendering},
+  author={Liu, Yuan and Peng, Sida and Liu, Lingjie and Wang, Qianqian and Wang, Peng and Theobalt, Christian and Zhou, Xiaowei and Wang, Wenping},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7824--7833},
+  year={2022}
+}
