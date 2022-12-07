@@ -78,6 +78,12 @@ Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis, Jain et
 
 [Generative Radiance Fields for 3D-Aware Image Synthesis](https://autonomousvision.github.io/graf/), Schwarz et al., (Jul 5 2020) | [pdf](https://arxiv.org/abs/2007.02442) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/schwarz2020graf) | [github](https://github.com/autonomousvision/graf)
 
+[pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://marcoamonteiro.github.io/pi-GAN-website/), Chan et al., (Dec 2 2020) | [pdf](https://arxiv.org/abs/2012.00926) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/chan2021pi) | [github](https://github.com/marcoamonteiro/pi-GAN)
+
+[Pix2NeRF: Unsupervised Conditional p-GAN for Single Image to Neural Radiance Fields Translation](https://vas.mpi-inf.mpg.de/pix2nerf/), Cai et al., (Feb 26, 2022) | [pdf](https://arxiv.org/abs/2202.13162) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/cai2022pix2nerf) | [github](https://github.com/primecai/Pix2NeRF)
+
+
+
 ### Pose Estimation
 
 ### Scene Composition
