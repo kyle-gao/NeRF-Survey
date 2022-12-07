@@ -1,0 +1,7 @@
+@inproceedings{chan2021pi,
+  title={pi-gan: Periodic implicit generative adversarial networks for 3d-aware image synthesis},
+  author={Chan, Eric R and Monteiro, Marco and Kellnhofer, Petr and Wu, Jiajun and Wetzstein, Gordon},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={5799--5809},
+  year={2021}
+}
