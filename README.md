@@ -71,7 +71,10 @@ Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis, Jain et
 
 
 
-### Latent/Conditional 
+### Latent-Conditional 
+
+### Latent-Generative
+[GIRAFFE Representing Scenes as Compositional Generative Neural Feature Fields](https://m-niemeyer.github.io/project-pages/giraffe/index.html), Niemeyer and Geiger, (Nov 24, 2020) | [pdf](https://arxiv.org/abs/2011.12100) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/niemeyer2021giraffe) | [github](https://github.com/autonomousvision/giraffe)
 
 ### Pose Estimation
 
