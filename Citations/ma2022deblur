@@ -1,0 +1,7 @@
+@inproceedings{ma2022deblur,
+  title={Deblur-NeRF: Neural Radiance Fields from Blurry Images},
+  author={Ma, Li and Li, Xiaoyu and Liao, Jing and Zhang, Qi and Wang, Xuan and Wang, Jue and Sander, Pedro V},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12861--12870},
+  year={2022}
+}
