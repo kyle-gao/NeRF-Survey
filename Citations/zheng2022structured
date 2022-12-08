@@ -1,0 +1,7 @@
+@inproceedings{zheng2022structured,
+  title={Structured local radiance fields for human avatar modeling},
+  author={Zheng, Zerong and Huang, Han and Yu, Tao and Zhang, Hongwen and Guo, Yandong and Liu, Yebin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={15893--15903},
+  year={2022}
+}
