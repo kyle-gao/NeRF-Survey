@@ -1,0 +1,7 @@
+@inproceedings{oechsle2021unisurf,
+  title={Unisurf: Unifying neural implicit surfaces and radiance fields for multi-view reconstruction},
+  author={Oechsle, Michael and Peng, Songyou and Geiger, Andreas},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5589--5599},
+  year={2021}
+}
