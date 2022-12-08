@@ -102,9 +102,10 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 [Urban Radiance Fields](https://urban-radiance-fields.github.io/), Rematas et al., (Nov 29 2021) | [pdf](https://arxiv.org/abs/2111.14643) | bibtex (https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/rematas2022urban) 
 
-[Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation), Kundu et al., (May 9 2022) | [pdf](https://arxiv.org/abs/2205.04334) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/kundu2022panoptic)
 
 [Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/), Chen et al., (Nov 30 2021) | [pdf](https://arxiv.org/abs/2111.15246) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/chen2022hallucinated) | [github](https://github.com/rover-xingyu/Ha-NeRF)
+
+[Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://deepai.org/publication/panoptic-neural-fields-a-semantic-object-aware-neural-scene-representation), Kundu et al., (May 9 2022) | [pdf](https://arxiv.org/abs/2205.04334) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/kundu2022panoptic)
 
 ### Human Body/Face
 
