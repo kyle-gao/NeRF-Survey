@@ -1,0 +1,8 @@
+@article{su2021nerf,
+  title={A-nerf: Articulated neural radiance fields for learning human shape, appearance, and pose},
+  author={Su, Shih-Yang and Yu, Frank and Zollh{\"o}fer, Michael and Rhodin, Helge},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={12278--12291},
+  year={2021}
+}
