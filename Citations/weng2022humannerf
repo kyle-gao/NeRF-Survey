@@ -1,0 +1,7 @@
+@inproceedings{weng2022humannerf,
+  title={Humannerf: Free-viewpoint rendering of moving people from monocular video},
+  author={Weng, Chung-Yi and Curless, Brian and Srinivasan, Pratul P and Barron, Jonathan T and Kemelmacher-Shlizerman, Ira},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={16210--16220},
+  year={2022}
+}
