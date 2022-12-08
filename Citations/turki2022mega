@@ -1,0 +1,7 @@
+@inproceedings{turki2022mega,
+  title={Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs},
+  author={Turki, Haithem and Ramanan, Deva and Satyanarayanan, Mahadev},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12922--12931},
+  year={2022}
+}
