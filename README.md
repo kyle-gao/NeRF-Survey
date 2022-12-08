@@ -151,7 +151,12 @@ Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen a
 
 [HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://hy1995.top/HeadNeRF-Project/), Hong et al., (Dec 10 2021) | [pdf](https://arxiv.org/abs/2112.05637) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/hong2022headnerf) | [github](https://github.com/CrisHY1995/headnerf)
 
-### Surface/Voxel/Depth Reconstruction
+### 3D(Surface/voxel/depth) Reconstruction
+[Neural RGB-D Surface Reconstruction](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/), Azinovic et al., (Apr 9 2021) | [pdf](https://arxiv.org/abs/2104.04532) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/azinovic2022neural) | [github](https://github.com/dazinovic/neural-rgbd-surface-reconstruction)
+
+[UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://moechsle.github.io/unisurf/), Oechsle et al., (Apr 20 2021) | [pdf](https://arxiv.org/abs/2104.10078) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/oechsle2021unisurf) | [github](https://github.com/autonomousvision/unisurf)
+
+[NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://lingjie0206.github.io/papers/NeuS/), Wang et al., (Jun 20 2021) | [pdf](https://arxiv.org/abs/2106.10689) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/wang2021neus) | [github](https://github.com/Totoro97/NeuS)
 
 NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo, Wei et al., (Sep 2 2021) | [pdf](https://arxiv.org/abs/2109.01129) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/wei2021nerfingmvs) | [github](https://github.com/weiyithu/NerfingMVS)
 
