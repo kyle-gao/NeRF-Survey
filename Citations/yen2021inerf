@@ -1,0 +1,8 @@
+@inproceedings{yen2021inerf,
+  title={inerf: Inverting neural radiance fields for pose estimation},
+  author={Yen-Chen, Lin and Florence, Pete and Barron, Jonathan T and Rodriguez, Alberto and Isola, Phillip and Lin, Tsung-Yi},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={1323--1330},
+  year={2021},
+  organization={IEEE}
+}
