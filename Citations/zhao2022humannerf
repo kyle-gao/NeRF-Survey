@@ -1,0 +1,7 @@
+@inproceedings{zhao2022humannerf,
+  title={HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs},
+  author={Zhao, Fuqiang and Yang, Wei and Zhang, Jiakai and Lin, Pei and Zhang, Yingliang and Yu, Jingyi and Xu, Lan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7743--7753},
+  year={2022}
+}
