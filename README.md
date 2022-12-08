@@ -118,9 +118,16 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 [Ha-NeRF: Hallucinated Neural Radiance Fields in the Wild](https://rover-xingyu.github.io/Ha-NeRF/), Chen et al., (Nov 30 2021) | [pdf](https://arxiv.org/abs/2111.15246) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/chen2022hallucinated) | [github](https://github.com/rover-xingyu/Ha-NeRF)
 
+[Block-NeRF: Scalable Large Scene Neural View Synthesis](https://waymo.com/research/block-nerf/), Tancik et al., (Feb 10 2022) | [pdf](https://arxiv.org/abs/2202.05263) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/tancik2022block)
+
 [Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://deepai.org/publication/panoptic-neural-fields-a-semantic-object-aware-neural-scene-representation), Kundu et al., (May 9 2022) | [pdf](https://arxiv.org/abs/2205.04334) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/kundu2022panoptic)
 
+
+
 ### Aerial 
+
+[Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://meganerf.cmusatyalab.org/), Turki et al., (Dec 20 2021) | [pdf](https://arxiv.org/abs/2112.10703) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/turki2022mega) | [github](https://github.com/cmusatyalab/mega-nerf)
+
 
 ### Human/Articulated Body
 
