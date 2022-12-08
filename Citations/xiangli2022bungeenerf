@@ -1,0 +1,8 @@
+@inproceedings{xiangli2022bungeenerf,
+  title={BungeeNeRF: Progressive neural radiance field for extreme multi-scale scene rendering},
+  author={Xiangli, Yuanbo and Xu, Linning and Pan, Xingang and Zhao, Nanxuan and Rao, Anyi and Theobalt, Christian and Dai, Bo and Lin, Dahua},
+  booktitle={European Conference on Computer Vision},
+  pages={106--122},
+  year={2022},
+  organization={Springer}
+}
