@@ -1,0 +1,7 @@
+@inproceedings{kundu2022panoptic,
+  title={Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation},
+  author={Kundu, Abhijit and Genova, Kyle and Yin, Xiaoqi and Fathi, Alireza and Pantofaru, Caroline and Guibas, Leonidas J and Tagliasacchi, Andrea and Dellaert, Frank and Funkhouser, Thomas},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12871--12881},
+  year={2022}
+}
