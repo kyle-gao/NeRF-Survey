@@ -135,7 +135,11 @@ Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen a
 
 ### Human/Articulated Body
 
+
 ### Face
+[Nerfies: Deformable Neural Radiance Fields](https://nerfies.github.io/), Park et al., (Nov 25 2020) | [pdf](https://arxiv.org/abs/2011.12948) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/park2021nerfies) | [github](https://github.com/google/nerfies)
+
+[A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/), Park et al., (Jun 24 2021) | [pdf](https://arxiv.org/abs/2106.13228) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/park2021hypernerf) | [github](https://github.com/google/hypernerf)
 
 ### Surface/Voxel/Depth Reconstruction
 
