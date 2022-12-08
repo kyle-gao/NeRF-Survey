@@ -1,0 +1,7 @@
+@inproceedings{tancik2022block,
+  title={Block-nerf: Scalable large scene neural view synthesis},
+  author={Tancik, Matthew and Casser, Vincent and Yan, Xinchen and Pradhan, Sabeek and Mildenhall, Ben and Srinivasan, Pratul P and Barron, Jonathan T and Kretzschmar, Henrik},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8248--8258},
+  year={2022}
+}
