@@ -1,0 +1,7 @@
+@inproceedings{jeong2021self,
+  title={Self-calibrating neural radiance fields},
+  author={Jeong, Yoonwoo and Ahn, Seokjun and Choy, Christopher and Anandkumar, Anima and Cho, Minsu and Park, Jaesik},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5846--5854},
+  year={2021}
+}
