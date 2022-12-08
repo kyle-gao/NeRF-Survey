@@ -138,6 +138,8 @@ Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen a
 
 [A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose](https://lemonatsu.github.io/anerf/), Su et al., (Feb 11 2021) | [pdf](https://arxiv.org/abs/2102.06199) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/su2021nerf) | [github](https://github.com/LemonATsu/A-NeRF)
 
+[HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs](https://zhaofuq.github.io/humannerf/), Zhao et al., (Dec 6 2021) | [pdf](https://arxiv.org/abs/2112.02789) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/zhao2022humannerf) | [github](https://github.com/zhaofuq/HumanNeRF)
+
 [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://grail.cs.washington.edu/projects/humannerf/), Weng et al., (Jan 11 2022) | [pdf](https://arxiv.org/abs/2201.04127) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/weng2022humannerf) | [github](https://github.com/chungyiweng/humannerf)
 
 
@@ -146,6 +148,8 @@ Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen a
 [Nerfies: Deformable Neural Radiance Fields](https://nerfies.github.io/), Park et al., (Nov 25 2020) | [pdf](https://arxiv.org/abs/2011.12948) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/park2021nerfies) | [github](https://github.com/google/nerfies)
 
 [A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/), Park et al., (Jun 24 2021) | [pdf](https://arxiv.org/abs/2106.13228) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/park2021hypernerf) | [github](https://github.com/google/hypernerf)
+
+[HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://hy1995.top/HeadNeRF-Project/), Hong et al., (Dec 10 2021) | [pdf](https://arxiv.org/abs/2112.05637) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/hong2022headnerf) | [github](https://github.com/CrisHY1995/headnerf)
 
 ### Surface/Voxel/Depth Reconstruction
 
