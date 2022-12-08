@@ -134,6 +134,12 @@ Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen a
 [Sat-NeRF: Learning Multi-View Satellite Photogrammetry With Transient Objects and Shadow Modeling Using RPC Cameras](https://centreborelli.github.io/satnerf/), Mari et al., (Mar 16 2022) | [pdf](https://arxiv.org/abs/2203.08896) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/mari2022sat) | [github](https://github.com/centreborelli/satnerf)
 
 ### Human/Articulated Body
+[Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://zju3dv.github.io/neuralbody/), Peng et al., (Dec 31 2020) | [pdf](https://arxiv.org/abs/2012.15838) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/peng2021neural) | [github](https://github.com/zju3dv/neuralbody)
+
+[A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose](https://lemonatsu.github.io/anerf/), Su et al., (Feb 11 2021) | [pdf](https://arxiv.org/abs/2102.06199) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/su2021nerf) | [github](https://github.com/LemonATsu/A-NeRF)
+
+[HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://grail.cs.washington.edu/projects/humannerf/), Weng et al., (Jan 11 2022) | [pdf](https://arxiv.org/abs/2201.04127) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/weng2022humannerf) | [github](https://github.com/chungyiweng/humannerf)
+
 
 
 ### Face
