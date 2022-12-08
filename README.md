@@ -94,7 +94,7 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 [BARF: Bundle-Adjusting Neural Radiance Fields](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/), Lin et al., (Apr 13 2021) | [pdf](https://arxiv.org/abs/2104.06405) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/jeong2021self) | [github](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)
 
-#### SLAM
+#### -SLAM
 
 [iMAP Implicit Mapping and Positioning in Real-Time](https://edgarsucar.github.io/iMAP/), Sucar et al., (Mar 23 2021) | [pdf](https://arxiv.org/abs/2103.12352) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/sucar2021imap)
 
