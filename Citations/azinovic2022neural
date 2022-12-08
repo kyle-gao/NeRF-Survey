@@ -1,0 +1,7 @@
+@inproceedings{azinovic2022neural,
+  title={Neural RGB-D surface reconstruction},
+  author={Azinovi{\'c}, Dejan and Martin-Brualla, Ricardo and Goldman, Dan B and Nie{\ss}ner, Matthias and Thies, Justus},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6290--6301},
+  year={2022}
+}
