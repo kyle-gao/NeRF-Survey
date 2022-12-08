@@ -125,9 +125,13 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 
 ### Aerial 
+Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen and Izzo, (Apr 20 2021) | [pdf](https://arxiv.org/abs/2104.09877) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/derksen2021shadow) |[github](https://github.com/esa/snerf)
+
+[BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering](https://city-super.github.io/citynerf/), Xiangli et al., (Dec 10 2021) | [pdf](https://arxiv.org/abs/2112.05504) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/xiangli2022bungeenerf) | [github](https://github.com/city-super/BungeeNeRF)
 
 [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://meganerf.cmusatyalab.org/), Turki et al., (Dec 20 2021) | [pdf](https://arxiv.org/abs/2112.10703) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/turki2022mega) | [github](https://github.com/cmusatyalab/mega-nerf)
 
+[Sat-NeRF: Learning Multi-View Satellite Photogrammetry With Transient Objects and Shadow Modeling Using RPC Cameras](https://centreborelli.github.io/satnerf/), Mari et al., (Mar 16 2022) | [pdf](https://arxiv.org/abs/2203.08896) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/mari2022sat) | [github](https://github.com/centreborelli/satnerf)
 
 ### Human/Articulated Body
 
@@ -136,6 +140,8 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 ### Surface/Voxel/Depth Reconstruction
 
 NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo, Wei et al., (Sep 2 2021) | [pdf](https://arxiv.org/abs/2109.01129) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/wei2021nerfingmvs) | [github](https://github.com/weiyithu/NerfingMVS)
+
+
 
 ### Scene Editing/Labelling
 
