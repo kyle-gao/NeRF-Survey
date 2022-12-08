@@ -122,7 +122,9 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 ### Aerial 
 
-### Human Body/Face
+### Human/Articulated Body
+
+### Face
 
 ### Surface/Voxel/Depth Reconstruction
 
