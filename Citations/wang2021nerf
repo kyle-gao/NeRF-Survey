@@ -1,0 +1,6 @@
+@article{wang2021nerf,
+  title={NeRF--: Neural radiance fields without known camera parameters},
+  author={Wang, Zirui and Wu, Shangzhe and Xie, Weidi and Chen, Min and Prisacariu, Victor Adrian},
+  journal={arXiv preprint arXiv:2102.07064},
+  year={2021}
+}
