@@ -88,6 +88,11 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 
 ### Pose Estimation
+[NeRF--: Neural Radiance Fields Without Known Camera Parameters](https://nerfmm.active.vision/), Wang et al., (Feb 14 2021) | [pdf](https://arxiv.org/abs/2102.07064) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/wang2021nerf) | [github](https://github.com/ActiveVisionLab/nerfmm)
+
+[Self-Calibrating Neural Radiance Fields](https://postech-cvlab.github.io/SCNeRF/), Jeong et al., (Aug 31 2021) | [pdf](https://arxiv.org/abs/2108.13826) | [bibtex]() | [github] (https://github.com/POSTECH-CVLab/SCNeRF)
+
+[BARF: Bundle-Adjusting Neural Radiance Fields](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/), Lin et al., (Apr 13 2021) | [pdf](https://arxiv.org/abs/2104.06405) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/jeong2021self) | [github](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)
 
 ### Scene Composition
 
