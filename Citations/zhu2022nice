@@ -1,0 +1,7 @@
+@inproceedings{zhu2022nice,
+  title={Nice-slam: Neural implicit scalable encoding for slam},
+  author={Zhu, Zihan and Peng, Songyou and Larsson, Viktor and Xu, Weiwei and Bao, Hujun and Cui, Zhaopeng and Oswald, Martin R and Pollefeys, Marc},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12786--12796},
+  year={2022}
+}
