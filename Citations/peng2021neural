@@ -1,0 +1,7 @@
+@inproceedings{peng2021neural,
+  title={Neural body: Implicit neural representations with structured latent codes for novel view synthesis of dynamic humans},
+  author={Peng, Sida and Zhang, Yuanqing and Xu, Yinghao and Wang, Qianqian and Shuai, Qing and Bao, Hujun and Zhou, Xiaowei},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={9054--9063},
+  year={2021}
+}
