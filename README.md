@@ -107,6 +107,8 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 [Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://deepai.org/publication/panoptic-neural-fields-a-semantic-object-aware-neural-scene-representation), Kundu et al., (May 9 2022) | [pdf](https://arxiv.org/abs/2205.04334) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/kundu2022panoptic)
 
+### Aerial 
+
 ### Human Body/Face
 
 ### Surface/Voxel/Depth Reconstruction
