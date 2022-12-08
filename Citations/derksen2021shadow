@@ -1,0 +1,7 @@
+@inproceedings{derksen2021shadow,
+  title={Shadow neural radiance fields for multi-view satellite photogrammetry},
+  author={Derksen, Dawa and Izzo, Dario},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1152--1161},
+  year={2021}
+}
