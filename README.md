@@ -142,6 +142,7 @@ Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen a
 
 [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://grail.cs.washington.edu/projects/humannerf/), Weng et al., (Jan 11 2022) | [pdf](https://arxiv.org/abs/2201.04127) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/weng2022humannerf) | [github](https://github.com/chungyiweng/humannerf)
 
+[Structured Local Radiance Fields for Human Avatar Modeling](https://liuyebin.com/slrf/slrf.html), Zheng et al., (Mar 28 2022) | [pdf](https://arxiv.org/abs/2203.14478) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/zheng2022structured) 
 
 
 ### Face
