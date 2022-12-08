@@ -1,0 +1,7 @@
+@inproceedings{rematas2022urban,
+  title={Urban radiance fields},
+  author={Rematas, Konstantinos and Liu, Andrew and Srinivasan, Pratul P and Barron, Jonathan T and Tagliasacchi, Andrea and Funkhouser, Thomas and Ferrari, Vittorio},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12932--12942},
+  year={2022}
+}
