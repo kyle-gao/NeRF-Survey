@@ -1,0 +1,7 @@
+@inproceedings{mildenhall2022nerf,
+  title={Nerf in the dark: High dynamic range view synthesis from noisy raw images},
+  author={Mildenhall, Ben and Hedman, Peter and Martin-Brualla, Ricardo and Srinivasan, Pratul P and Barron, Jonathan T},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={16190--16199},
+  year={2022}
+}
