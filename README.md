@@ -59,6 +59,14 @@ KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser
 
 [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Muller et al., (Jan 16 2022) | [pdf](https://arxiv.org/abs/2201.05989) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/muller2022instant) | [github](https://github.com/NVlabs/instant-ngp)
 
+#### -MLP-less/Direct radiance fields
+
+[Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://sunset1995.github.io/dvgo/), Sun et al., (Nov 22 2021) | [pdf](https://arxiv.org/abs/2111.11215) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/sun2022improved) | [github](https://github.com/sunset1995/DirectVoxGO)
+
+[Plenoxels: Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/), Yu et al., (Dec 9 2021) | [pdf](https://arxiv.org/abs/2112.05131) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/yu2021plenoxels) | [github](https://github.com/sxyu/svox2)
+
+[TensoRF: Tensorial Radiance Fields](https://apchenstu.github.io/TensoRF/), Chen et al., (Mar 17 2022) | [pdf](https://arxiv.org/abs/2203.09517) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/Chen2022ECCV) | [github](https://github.com/apchenstu/TensoRF)
+
 
 ### Few-shot/Sparse View (Typically Faster Training)
 [GRF: Learning a General Radiance Field for 3D Representation and Rendering](), Trevithick and Yang, (Oct 9 2020) | [pdf](https://arxiv.org/abs/2010.04595) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/trevithick2021grf) | [github](https://github.com/alextrevithick/GRF)
