@@ -74,7 +74,7 @@ Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis, Jain et
 
 
 ### Latent-Conditional 
-[Starting from NeRF-W, most urban/outdoors methods use latent codes to condition for lighting/appearance.](#Urban) Many deformation models ([faces](#Face) and [bodies](#humanarticulated-body)) use latent codes to code for pose/deformation. Many [scene editing](#Edit) models use latent codes to condition for object pose/deformation.  
+[Starting from NeRF-W, most urban/outdoors methods use latent codes to condition for lighting/appearance.](#urbanoutdoors) Many deformation models ([faces](#Face) and [bodies](#humanarticulated-body)) use latent codes to code for pose/deformation. Many [scene editing](#Edit) models use latent codes to condition for object pose/deformation.  
 
 ### Latent-Generative
 [GIRAFFE Representing Scenes as Compositional Generative Neural Feature Fields](https://m-niemeyer.github.io/project-pages/giraffe/index.html), Niemeyer and Geiger, (Nov 24, 2020) | [pdf](https://arxiv.org/abs/2011.12100) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/niemeyer2021giraffe) | [github](https://github.com/autonomousvision/giraffe)
