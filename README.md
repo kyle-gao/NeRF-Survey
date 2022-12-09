@@ -13,7 +13,7 @@ If you find this survey/list useful in writing your manuscript(s), please consid
 }<br>
 
 
-To submit a pr: 
+To submit a pr for additional entries: 
 1) create a bibtex file in NeRF-Survey/Citations/
 2) Insert your entry, ordered by frist draft date, in the README.ME with:
 
