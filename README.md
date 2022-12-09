@@ -107,8 +107,15 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 ### Scene Composition
 
 #### -Labelling
+[In-Place Scene Labelling and Understanding with Implicit Scene Representation](https://shuaifengzhi.com/Semantic-NeRF/), Zhi et al., (Mar 29 2021) | [pdf](https://arxiv.org/abs/2103.15875) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/zhi2021place) | [github](https://github.com/Harry-Zhi/semantic_nerf/)
+
+[FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling](https://fig-nerf.github.io/), Xie et al., (Apr 17 2021) | [pdf](https://arxiv.org/abs/2104.08418) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/xie2021fig) 
+
+[NeSF: Neural Semantic Fields for Generalizable Semantic Segmentation of 3D Scenes](https://nesf3d.github.io/), Vora et al., (Nov 25 2021) | [pdf](https://arxiv.org/abs/2111.13260) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/vora2021nesf) | [github](https://github.com/google-research/jax3d/tree/main/jax3d/projects/nesf)
+
 
 #### -Editing
+
 
 
 
@@ -163,9 +170,6 @@ Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen a
 
 NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo, Wei et al., (Sep 2 2021) | [pdf](https://arxiv.org/abs/2109.01129) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/wei2021nerfingmvs) | [github](https://github.com/weiyithu/NerfingMVS)
 
-
-
-### Scene Editing/Labelling
 
 ### Denoising/Deblurring/Super-resolution
 
