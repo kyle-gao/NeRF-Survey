@@ -1,0 +1,7 @@
+@inproceedings{kania2022conerf,
+  title={Conerf: Controllable neural radiance fields},
+  author={Kania, Kacper and Yi, Kwang Moo and Kowalski, Marek and Trzci{\'n}ski, Tomasz and Tagliasacchi, Andrea},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={18623--18632},
+  year={2022}
+}
