@@ -61,6 +61,8 @@ KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs, Reiser
 
 
 ### Few-shot/Sparse View (Typically Faster Training)
+[GRF: Learning a General Radiance Field for 3D Representation and Rendering](), Trevithick and Yang, (Oct 9 2020) | [pdf](https://arxiv.org/abs/2010.04595) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/trevithick2021grf) | [github](https://github.com/alextrevithick/GRF)
+
 [PixelNeRF Neural Radiance Fields from One or Few Images](https://alexyu.net/pixelnerf/), Yu et al., (Dec 3 2020) | [pdf](https://arxiv.org/abs/2012.02190) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/yu2021pixelnerf) | [github](https://github.com/sxyu/pixel-nerf)
 
 [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/), Chen et al., (Mar 29 2021) | [pdf](https://arxiv.org/abs/2103.15595) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/chen2021mvsnerf) | [github](https://github.com/apchenstu/mvsnerf)
@@ -181,6 +183,6 @@ NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view 
 
 [Deblur-NeRF: Neural Radiance Fields from Blurry Images](https://limacv.github.io/deblurnerf/), Ma et al., (Nov 29 2021) | [pdf](https://arxiv.org/abs/2111.14292) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/ma2022deblur) | [github](https://github.com/limacv/Deblur-NeRF)
 
-[NAN: Noise-Aware NeRFs for Burst-Denoising](https://noise-aware-nerf.github.io/), Pearl et al., (Apr 10 2022) | [pdf](https://arxiv.org/abs/2204.04668) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/pearl2022nan) | [github](https://github.com/NaamaPearl/nan)
-
 [NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling](https://cwchenwang.github.io/NeRF-SR/), Wang et al., (Dec 3 2021) | [pdf](https://arxiv.org/abs/2112.01759) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/wang2022nerf) | [github](https://github.com/cwchenwang/NeRF-SR)
+
+[NAN: Noise-Aware NeRFs for Burst-Denoising](https://noise-aware-nerf.github.io/), Pearl et al., (Apr 10 2022) | [pdf](https://arxiv.org/abs/2204.04668) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/pearl2022nan) | [github](https://github.com/NaamaPearl/nan)
