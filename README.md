@@ -31,6 +31,8 @@ NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review, Gao et al., (O
 
 [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://dorverbin.github.io/refnerf/), Verbin et al., (Dec 7 2021) | [pdf](https://arxiv.org/abs/2112.03907) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/verbin2022ref) | [github](https://github.com/google-research/multinerf)
 
+[NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://bmild.github.io/rawnerf/) | Mildenhal et al.,(Nov 26 2021) | [pdf](https://arxiv.org/abs/2111.13679) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/mildenhall2022nerf) | [github](https://github.com/google-research/multinerf)
+
 ### Unbound Scene
 NeRF++: Analyzing and Improving Neural Radiance Fields, Zhang et al., (Oct 15 2020) | [pdf](https://arxiv.org/abs/2010.07492) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/zhang2020nerf%2B%2B) | [github](https://github.com/Kai-46/nerfplusplus) |
 
@@ -167,3 +169,8 @@ NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view 
 
 ### Denoising/Deblurring/Super-resolution
 
+[Deblur-NeRF: Neural Radiance Fields from Blurry Images](https://limacv.github.io/deblurnerf/), Ma et al., (Nov 29 2021) | [pdf](https://arxiv.org/abs/2111.14292) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/ma2022deblur) | [github](https://github.com/limacv/Deblur-NeRF)
+
+[NAN: Noise-Aware NeRFs for Burst-Denoising](https://noise-aware-nerf.github.io/), Pearl et al., (Apr 10 2022) | [pdf](https://arxiv.org/abs/2204.04668) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/pearl2022nan) | [github](https://github.com/NaamaPearl/nan)
+
+[NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling](https://cwchenwang.github.io/NeRF-SR/), Wang et al., (Dec 3 2021) | [pdf](https://arxiv.org/abs/2112.01759) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/wang2022nerf) | [github](https://github.com/cwchenwang/NeRF-SR)
