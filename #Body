@@ -117,6 +117,8 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 #### -Editing
 
+[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/), Wang et al., (Dec 9 2021) | [pdf](https://arxiv.org/abs/2112.05139) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/wang2022clip) | [github](https://github.com/cassiePython/CLIPNeRF)
+
 
 
 
