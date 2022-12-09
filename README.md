@@ -74,7 +74,7 @@ Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis, Jain et
 
 
 ### Latent-Conditional 
-[Starting from NeRF-W, most urban/outdoors methods use latent codes to condition for lighting/appearance](#Urban)
+[Starting from NeRF-W, most urban/outdoors methods use latent codes to condition for lighting/appearance.](#Urban) Many deformation models ([faces](#Face) and [bodies](#Body) use latent codes.
 
 ### Latent-Generative
 [GIRAFFE Representing Scenes as Compositional Generative Neural Feature Fields](https://m-niemeyer.github.io/project-pages/giraffe/index.html), Niemeyer and Geiger, (Nov 24, 2020) | [pdf](https://arxiv.org/abs/2011.12100) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/niemeyer2021giraffe) | [github](https://github.com/autonomousvision/giraffe)
@@ -113,6 +113,7 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 [NeSF: Neural Semantic Fields for Generalizable Semantic Segmentation of 3D Scenes](https://nesf3d.github.io/), Vora et al., (Nov 25 2021) | [pdf](https://arxiv.org/abs/2111.13260) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/vora2021nesf) | [github](https://github.com/google-research/jax3d/tree/main/jax3d/projects/nesf)
 
+[Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://deepai.org/publication/panoptic-neural-fields-a-semantic-object-aware-neural-scene-representation), Kundu et al., (May 9 2022) | [pdf](https://arxiv.org/abs/2205.04334) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/kundu2022panoptic)
 
 #### -Editing
 
@@ -129,9 +130,6 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://waymo.com/research/block-nerf/), Tancik et al., (Feb 10 2022) | [pdf](https://arxiv.org/abs/2202.05263) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/tancik2022block)
 
-[Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://deepai.org/publication/panoptic-neural-fields-a-semantic-object-aware-neural-scene-representation), Kundu et al., (May 9 2022) | [pdf](https://arxiv.org/abs/2205.04334) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/kundu2022panoptic)
-
-
 
 ### Aerial 
 Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen and Izzo, (Apr 20 2021) | [pdf](https://arxiv.org/abs/2104.09877) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/derksen2021shadow) |[github](https://github.com/esa/snerf)
@@ -142,7 +140,7 @@ Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen a
 
 [Sat-NeRF: Learning Multi-View Satellite Photogrammetry With Transient Objects and Shadow Modeling Using RPC Cameras](https://centreborelli.github.io/satnerf/), Mari et al., (Mar 16 2022) | [pdf](https://arxiv.org/abs/2203.08896) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/mari2022sat) | [github](https://github.com/centreborelli/satnerf)
 
-### Human/Articulated Body
+### [Human/Articulated Body](#Body)
 [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://zju3dv.github.io/neuralbody/), Peng et al., (Dec 31 2020) | [pdf](https://arxiv.org/abs/2012.15838) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/peng2021neural) | [github](https://github.com/zju3dv/neuralbody)
 
 [A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose](https://lemonatsu.github.io/anerf/), Su et al., (Feb 11 2021) | [pdf](https://arxiv.org/abs/2102.06199) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/su2021nerf) | [github](https://github.com/LemonATsu/A-NeRF)
@@ -154,7 +152,7 @@ Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry, Derksen a
 [Structured Local Radiance Fields for Human Avatar Modeling](https://liuyebin.com/slrf/slrf.html), Zheng et al., (Mar 28 2022) | [pdf](https://arxiv.org/abs/2203.14478) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/zheng2022structured) 
 
 
-### Face
+### [Face](#Face)
 [Nerfies: Deformable Neural Radiance Fields](https://nerfies.github.io/), Park et al., (Nov 25 2020) | [pdf](https://arxiv.org/abs/2011.12948) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/park2021nerfies) | [github](https://github.com/google/nerfies)
 
 [A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/), Park et al., (Jun 24 2021) | [pdf](https://arxiv.org/abs/2106.13228) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/park2021hypernerf) | [github](https://github.com/google/hypernerf)
