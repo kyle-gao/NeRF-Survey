@@ -1,0 +1,7 @@
+@inproceedings{zhi2021place,
+  title={In-place scene labelling and understanding with implicit scene representation},
+  author={Zhi, Shuaifeng and Laidlow, Tristan and Leutenegger, Stefan and Davison, Andrew J},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={15838--15847},
+  year={2021}
+}
