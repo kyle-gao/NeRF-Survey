@@ -1,0 +1,7 @@
+@inproceedings{yang2021learning,
+  title={Learning object-compositional neural radiance field for editable scene rendering},
+  author={Yang, Bangbang and Zhang, Yinda and Xu, Yinghao and Li, Yijin and Zhou, Han and Bao, Hujun and Zhang, Guofeng and Cui, Zhaopeng},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={13779--13788},
+  year={2021}
+}
