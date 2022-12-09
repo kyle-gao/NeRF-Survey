@@ -1,0 +1,6 @@
+@article{yu2021plenoxels,
+  title={Plenoxels: Radiance fields without neural networks},
+  author={Yu, Alex and Fridovich-Keil, Sara and Tancik, Matthew and Chen, Qinhong and Recht, Benjamin and Kanazawa, Angjoo},
+  journal={arXiv preprint arXiv:2112.05131},
+  year={2021}
+}
