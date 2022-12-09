@@ -17,7 +17,7 @@ To submit a pr:
 1) create a bibtex file in NeRF-Survey/Citations/
 2) Insert your entry, ordered by frist draft date, in the README.ME with:
 
-[paper title](link to project page), AUTHORS, (First Draft Date) | \[pdf\](link to pdf) | \[bibtex\](link to NeRF-Survey/Citations/<MyEntry>) | \[github\](link to code repo)
+[paper title](link to project page), AUTHORS, (First Draft Date) | \[pdf\](link to pdf) | \[bibtex\](link to NeRF-Survey/Citations/\<MyEntry\>) | \[github\](link to code repo)
 
 ## Survey papers:
 
