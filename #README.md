@@ -74,7 +74,7 @@ Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis, Jain et
 
 
 ### Latent-Conditional 
-[Starting from NeRF-W, most urban/outdoors methods use latent codes to condition for lighting/appearance.](#Urban) Many deformation models ([faces](#Face) and [bodies](#Body)) use latent codes.
+[Starting from NeRF-W, most urban/outdoors methods use latent codes to condition for lighting/appearance.](#Urban) Many deformation models ([faces](#Face) and [bodies](#Body)) use latent codes to code for pose/deformation. Many [scene editing](#Edit) models use latent codes to condition for object pose/deformation.  
 
 ### Latent-Generative
 [GIRAFFE Representing Scenes as Compositional Generative Neural Feature Fields](https://m-niemeyer.github.io/project-pages/giraffe/index.html), Niemeyer and Geiger, (Nov 24, 2020) | [pdf](https://arxiv.org/abs/2011.12100) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/niemeyer2021giraffe) | [github](https://github.com/autonomousvision/giraffe)
@@ -115,13 +115,18 @@ GNeRF: GAN-based Neural Radiance Field without Posed Camera, Meng et al., (Mar 2
 
 [Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://deepai.org/publication/panoptic-neural-fields-a-semantic-object-aware-neural-scene-representation), Kundu et al., (May 9 2022) | [pdf](https://arxiv.org/abs/2205.04334) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/kundu2022panoptic)
 
-#### -Editing
-
-[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/), Wang et al., (Dec 9 2021) | [pdf](https://arxiv.org/abs/2112.05139) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/wang2022clip) | [github](https://github.com/cassiePython/CLIPNeRF)
+#### -[Editing](#Edit)
 
 [Editing Conditional Radiance Fields](http://editnerf.csail.mit.edu/), Liu et al., (May 13 2021) | [pdf](https://arxiv.org/abs/2105.06466) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/wang2022clip) | [github](https://github.com/stevliu/editnerf)
 
 [CodeNeRF : Disentangled Neural Radiance Fields for Object Categories](https://sites.google.com/view/wbjang/home/codenerf), Jang and Agapito, (Sep 3 2021) | [pdf](https://arxiv.org/abs/2109.01750) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/jang2021codenerf) | [github](https://github.com/wbjang/code-nerf)
+
+[Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/), Yang et al., (Sep 4 2021) | [pdf](https://arxiv.org/abs/2109.01847) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/yang2021learning) | [github](https://github.com/zju3dv/object_nerf)
+
+[CoNeRF: Controllable Neural Radiance Fields](https://conerf.github.io/), Kania et al., (Dec 3 2021) | [pdf](https://arxiv.org/abs/2112.01983) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/kania2022conerf) | [github](https://github.com/kacperkan/conerf)
+
+[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/), Wang et al., (Dec 9 2021) | [pdf](https://arxiv.org/abs/2112.05139) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/new/main/Citations/wang2022clip) | [github](https://github.com/cassiePython/CLIPNeRF)
+
 
 ### [Urban/Outdoors](#Urban)
 [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/), Martin-Brualla et al., (Aug 5 2020) | [pdf](https://arxiv.org/abs/2008.02268) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/martin2021nerf) | [github-non official](https://github.com/kwea123/nerf_pl)
