@@ -1,0 +1,7 @@
+@inproceedings{trevithick2021grf,
+  title={Grf: Learning a general radiance field for 3d representation and rendering},
+  author={Trevithick, Alex and Yang, Bo},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={15182--15192},
+  year={2021}
+}
