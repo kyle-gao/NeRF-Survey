@@ -1,0 +1,7 @@
+@inproceedings{wang2022nerf,
+  title={NeRF-SR: High Quality Neural Radiance Fields using Supersampling},
+  author={Wang, Chen and Wu, Xian and Guo, Yuan-Chen and Zhang, Song-Hai and Tai, Yu-Wing and Hu, Shi-Min},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={6445--6454},
+  year={2022}
+}
