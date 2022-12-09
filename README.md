@@ -13,6 +13,10 @@ If you find this survey/list useful in writing your manuscript(s), please consid
 }<br>
 
 
+To submit a pr: 
+1) create a bibtex file in NeRF-Survey/Citations/
+2) Modify the README.ME with [paper title](link to project page), AUTHORS, (First Draft Date) | [pdf](link) | [bibtex](link) | [github-code](link)
+
 ## Survey papers:
 
 Neural Volume Rendering: NeRF And Beyond, Dellaert and Yen-Chen, (Dec 17 2020) | [pdf](https://arxiv.org/abs/2101.05204) | [bibtex](https://github.com/kyle-gao/NeRF-Survey/blob/main/Citations/dellaert2020neural) | [github](https://github.com/yenchenlin/awesome-NeRF)
