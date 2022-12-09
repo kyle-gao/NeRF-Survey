@@ -1,0 +1,8 @@
+@inproceedings{xie2021fig,
+  title={Fig-nerf: Figure-ground neural radiance fields for 3d object category modelling},
+  author={Xie, Christopher and Park, Keunhong and Martin-Brualla, Ricardo and Brown, Matthew},
+  booktitle={2021 International Conference on 3D Vision (3DV)},
+  pages={962--971},
+  year={2021},
+  organization={IEEE}
+}
