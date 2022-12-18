@@ -7,7 +7,7 @@ If you find this survey/list useful in writing your manuscript(s), please consid
 
 @article{gao2022nerf,<br>
   title={Nerf: Neural radiance field in 3d vision, a comprehensive review},<br>
-  author={Gao, Kyle and Gao, Yina and He, Hongjie and Lu, Denning and Xu, Linlin and Li, Jonathan},<br>
+  author={Gao, Kyle and Gao, Yina and He, Hongjie and Lu, Dening and Xu, Linlin and Li, Jonathan},<br>
   journal={arXiv preprint arXiv:2210.00379},<br>
   year={2022}<br>
 }<br>
